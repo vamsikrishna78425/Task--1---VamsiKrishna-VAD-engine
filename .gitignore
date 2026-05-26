@@ -1,0 +1,14 @@
+# Environment configuration
+.env
+
+# Python cache
+__pycache__/
+
+# Audio samples (optional, if you don’t want raw audio in repo)
+audio_samples/
+
+# Model files (optional, if storing trained models locally)
+models/
+
+# Logs
+*.log
