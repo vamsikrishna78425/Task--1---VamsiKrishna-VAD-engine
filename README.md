@@ -31,14 +31,12 @@ Allows customization of sensitivity levels for different environments.
 Project Structure
 Code
 Voice_Activity_Detection/
-
-├── audio_samples/
-├── vad.py
 ├── app.py
 ├── config.py
-├── requirements.txt
-└── README.md
-
+├── .env
+├── .gitignore
+├── README.md
+└── Vamsi_Krishna_Darla_Updated_Report.docx
 Technologies Used:
 Python 3.x
 NumPy, SciPy
