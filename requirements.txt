@@ -2,3 +2,5 @@ numpy
 scipy
 librosa
 pyaudio
+matplotlib
+python-dotenv
